@@ -1,0 +1,47 @@
+
+body{
+    width: 100%;
+    font-family: cursive;
+    display: flex;
+    margin-top: 7px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+
+
+figure{
+    width: 250px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+figure>img{
+    width: 130%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+
+h1{
+    font-size: 4pt;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+figcaption{
+    padding: 2px;
+}
+
+.fotos{
+    font-size: 17pt;
+    color: #071813;
+    padding-top: 5px;
+    text-align: left;
+    
+}
+
